@@ -1,0 +1,27 @@
+﻿  stdafx.cpp
+  term project.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\gl\gl.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\init.h(21): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\init.h(22): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(265): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(283): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(285): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(297): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(300): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(376): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(382): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(388): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(396): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(402): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(408): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(426): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(448): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(470): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(492): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(514): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(536): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(558): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(580): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(602): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+g:\university\2018 1학기\컴퓨터 그래픽스\project\term project\term project\term project.cpp(624): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  term project.vcxproj -> G:\University\2018 1학기\컴퓨터 그래픽스\project\term project\Debug\term project.exe

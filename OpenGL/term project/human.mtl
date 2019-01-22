@@ -1,0 +1,41 @@
+# Blender3D MTL File: human.blend
+# Material Count: 4
+newmtl Material.002
+Ns 3
+Ka 0.0 0.0 0.0
+Kd 0.0 0.9 0.0
+Ks 0.0 0.4 0.0
+Ni 1.0
+d 1.0
+illum 2
+
+
+newmtl Material.003
+Ns 3
+Ka 0.0 0.0 0.0
+Kd 0.0 0.9 0.0
+Ks 0.0 0.4 0.0
+Ni 1.0
+d 1.0
+illum 2
+
+
+newmtl Material.001
+Ns 3
+Ka 0.0 0.0 0.0
+Kd 0.9 0.0 0.0
+Ks 0.4 0.0 0.0
+Ni 1.0
+d 1.0
+illum 2
+
+newmtl Material
+Ns 3
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.9
+Ks 0.0 0.0 0.4
+Ni 1.0
+d 1.0
+illum 2
+
+
